@@ -1,2 +1,2 @@
 # Snake
-jeu snake en language pyhton
+jeu snake en language pyhton avec pygame
